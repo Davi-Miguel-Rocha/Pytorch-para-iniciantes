@@ -51,7 +51,7 @@ criterio=nn.MSELoss()
 otimizador=optim.Adam(Modelo.parameters(), lr=0.1)
 
 
-for epoch in range(561):
+for epoch in range(201):
 
     saida_predita = Modelo(entradas)
 
