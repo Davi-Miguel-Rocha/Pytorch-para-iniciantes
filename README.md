@@ -1,41 +1,41 @@
-# PyTorch para iniciantes
+# PyTorch para Iniciantes 🚀
 
-Este repositório contém material didático sobre os fundamentos do framework Pyotorch, deis da criação de tensores até a construção de sua primeira rede totalmente conectada.
+Este repositório foi criado com o objetivo de estudar e explicar **PyTorch do zero**, de forma prática e direta, passando pelos conceitos fundamentais até a implementação de uma rede neural simples.
 
-## Objetivo
+O foco do projeto não é performance ou uso em produção, mas **entendimento real do funcionamento da biblioteca**.
 
-O objetivo de "PyTorch para iniciantes" é ensinar os fundamentos do framework de maneira acessível e da forma mais simples possível.
+---
 
-## Escopo do projeto
-Estão incluídos neste repositório:
-- Como instalar o PyTorch;
-- Explicação sobre o que são tensores;
-- Operações com tensores e arquivo executável;
-- Termos técnicos e seus significados;
-- Explicação sobre redes totalmente conectadas;
-- Código da rede totalmente conectada pronto para executar;
-- PDF contendo o código explicado linha a linha.
+## 🎯 Objetivo do Projeto
 
-Não estão incluídos:
-- Redes mais complexas (CNNs, RNNs...);
-- Datasets reais;
-- Otimizações avançadas;
+- Aprender PyTorch desde os conceitos mais básicos  
+- Entender o fluxo completo de uma rede neural  
+- Criar exemplos simples e bem explicados  
+- Servir como material de apoio para iniciantes  
 
+Este projeto também funciona como um **registro do meu processo de aprendizado**.
 
+---
 
-## Como utilizar?
+## 🛠 Tecnologias Utilizadas
 
-- Clone o repositório na sua máquina e abra a pasta "Modulo 1".
-- Quando finalizar os PDFs da pasta "Modulo 1", abra a pasta "Modulo 2" e assim sucessivamente.
+- Python  
+- PyTorch  
 
-## Limitações
-- O material é simples e didático;
-- O foco está na didática, não no desempenho;
-- Figuras feitas no Paint, apenas para facilitar o entendimento.
+---
 
-## Possíveis melhorias futuras
-- Adição de conteúdo sobre redes convolucionais;
-- Adição de conteúdo sobre redes recorrentes;
-- Módulos sobre desempenho;
-- Módulos sobre como visualizar o treino dos seus modelos;
+## 🧠 Conteúdo do Repositório
 
+- Introdução a tensores  
+- Operações básicas no PyTorch  
+- Construção de uma rede neural totalmente conectada (MLP)  
+- Código comentado e organizado  
+- PDF com explicação teórica complementar  
+
+---
+
+## 🚀 Como Executar o Projeto
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/Davi-Miguel-Rocha/Pytorch-para-iniciantes.git
